@@ -1,4 +1,8 @@
-# TwoPlayerPong-CDojo
-Two Player Pong game for use as instruction material in a CoderDojo session
+# Kells CoderDojo Instructional Material
 
-See https://scratch.mit.edu/projects/184853207/
+Games and programs accompanied with guides for use in Kells CoderDojo.
+
+* Two-Player Pong
+* Chase the Cheese
+
+All projects can be found at https://scratch.mit.edu/studios/4437648/
