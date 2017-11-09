@@ -2,6 +2,10 @@
 
 Games and programs accompanied with guides for use in Kells CoderDojo.
 
+Beginner Skill Level
+* Dance Show
+
+Easy Skill Level
 * Two-Player Pong
 * Chase the Cheese
 
