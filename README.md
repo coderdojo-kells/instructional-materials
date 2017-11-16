@@ -10,4 +10,8 @@ Easy Skill Level
 * Two-Player Pong
 * Chase the Cheese
 ----
+Advanced Skill Level
+* 2P Tank Fight
+----
+
 All projects can be found at https://scratch.mit.edu/studios/4437648/
