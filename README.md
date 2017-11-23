@@ -10,6 +10,9 @@ Easy Skill Level
 * Two-Player Pong
 * Chase the Cheese
 ----
+Intermediate Skill Level
+* Throw Dan Throw
+----
 Advanced Skill Level
 * 2P Tank Fight
 ----
