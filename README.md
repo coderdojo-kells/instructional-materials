@@ -12,6 +12,7 @@ Easy Skill Level
 ----
 Intermediate Skill Level
 * Throw Dan Throw
+* Attack of the Snowmen
 ----
 Advanced Skill Level
 * 2P Tank Fight
