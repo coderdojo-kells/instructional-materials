@@ -2,7 +2,6 @@
 
 Games and programs accompanied with guides for use in Kells CoderDojo.
 
-----
 ## Scratch
 ### Beginner Skill Level
 * Dance Show
