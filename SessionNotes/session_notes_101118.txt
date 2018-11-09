@@ -1,0 +1,13 @@
+
+pseudo code for Session 6 on 10/11/2018
+
+program start and run until stopped
+courage variable set to false
+strength variable set to 0
+condition to check if courage present
+if true - say "roar, I am the king of the jungle" and play sound
+if false - say "i am scared"
+condition to check strength level
+if strength greater than or equal to 5 - say "i am feeling strong"
+if strength less than 5 - say "i want my mom"
+
